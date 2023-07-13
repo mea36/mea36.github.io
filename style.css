@@ -1,0 +1,18 @@
+body {
+  color:#4c4846;
+}
+
+a {
+  color:#4c4846;
+  text-decoration: underline;
+
+}
+
+hr {
+  margin-top: 0.7rem;
+  margin-bottom: 0.7rem;
+}
+
+.font-weight-boldish {
+  font-weight:600!important;
+}
